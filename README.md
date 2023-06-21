@@ -12,4 +12,4 @@ The Tasker App is a minimum viable product (MVP) application that allows users t
 - Dark and Light Mode: Users can switch between dark and light themes for personalized preferences.
 
 ## Screenshots
-![Dark Mode](READMEFILES/DarkMode.png)
+![Dark Mode](READMEFILES/DarkMode.png) ![Dark Mode](READMEFILES/DarkMode.png)
