@@ -13,7 +13,7 @@ The Tasker App is a minimum viable product (MVP) application that allows users t
 
 ## Screenshots
 
-![Splash Screen](READMEFILES/SplashScreen.png) ![Log In](READMEFILES/Login.png)
+![Splash Screen](READMEFILES/SplashScreen.png) ![Log In](READMEFILES/LogIn.png)
 ![My Tasks](READMEFILES/MyTasks.png) ![My Task Info](READMEFILES/InfoAboutMyTask.png)
 ![Task MarketPlaceLight](READMEFILES/TaskMarketPlace.png) ![Task MarketPlace dark](READMEFILES/DarkMode.png)
 ![Filter](READMEFILES/Filter.png) ![Settings](READMEFILES/Settings.png) 
