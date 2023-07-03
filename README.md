@@ -1,6 +1,6 @@
 # Tasker App
 
-The Tasker App is a minimum viable product (MVP) application that allows users to manage customer tasks. It provides features for user authentication, task assignment, task completion, photo uploads, and supports two localized languages. Please note that for demonstration purposes, the app currently uses hardcoded information and is ready for integration with a database. This project was done during an internship
+The Tasker App is a minimal viable product (MVP) application that allows users to manage customer tasks. It provides features for user authentication, task assignment, task completion, photo uploads, and supports two localized languages. Please note that for demonstration purposes, the app currently uses hardcoded information and is ready for integration with a database. This project was done during an internship
 
 ## Features
 
